@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="" />
+    <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lanes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lanes_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/test2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/test_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/testimage2.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +36,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PFDHLzgRaH9tnJCFPuy2bWvgz9" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karti\Desktop\REPOSITORY\SDV\venv\1Finding_Lanes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\karti\PycharmProjects\selfdriving car\venv" />
     </key>
@@ -111,7 +125,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/lanes.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\karti\Desktop\REPOSITORY\SDV\venv\1Finding_Lanes\lanes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +169,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/lanes_final.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\karti\Desktop\REPOSITORY\SDV\venv\1Finding_Lanes\lanes_final.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +269,26 @@
       <workItem from="1567504405906" duration="14241000" />
       <workItem from="1567705890164" duration="7620000" />
       <workItem from="1567843655904" duration="10104000" />
+      <workItem from="1568032957168" duration="1235000" />
+      <workItem from="1568035086182" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/selfdriving_car$1_0_numpy_crash_course.coverage" NAME="1.0 numpy crash course Coverage Results" MODIFIED="1565591965865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
