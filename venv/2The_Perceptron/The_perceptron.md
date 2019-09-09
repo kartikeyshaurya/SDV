@@ -26,5 +26,13 @@ for human to extract it .
  ***SUPERVISED LEARNING/ linear regression***
  * linear regression is a suupervised learning algorithm that allow us to make prediction based on linearly arranged datasets.
  
+ * for understanding better we will look into an example of a simple regression model which would model the relationship of a quantative response variable
+ and the explanatory variable.
+ 
+ * RESPONSE VARIABLE - is the dependent variable whose value we want to explain and predict based on the values 
+ of the independent variable(explanatory variable)
+ ** see the exercies 
+ 
+ 
  
 
