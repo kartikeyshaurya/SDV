@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lanes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lanes_final.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/test2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/test_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/testimage2.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -270,7 +265,7 @@
       <workItem from="1567705890164" duration="7620000" />
       <workItem from="1567843655904" duration="10104000" />
       <workItem from="1568032957168" duration="1235000" />
-      <workItem from="1568035086182" duration="483000" />
+      <workItem from="1568035086182" duration="2910000" />
     </task>
     <servers />
   </component>
