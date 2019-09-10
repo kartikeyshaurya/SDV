@@ -1,3 +1,4 @@
+# explaination will be provided shortly
 import numpy as np
 import matplotlib.pyplot as plt
 #%matplotlib inline
@@ -11,3 +12,7 @@ ax.scatter(top_region[:,0], top_region[:,1], color='r')
 ax.scatter(bottom_region[:,0], bottom_region[:,1], color='b')
 
 plt.show()
+# print(top_region)
+# print(bottom_region)
+
+
