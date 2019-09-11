@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/2The_Perceptron/classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/2The_Perceptron/classification.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +111,9 @@
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/2The_Perceptron" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -131,6 +133,9 @@
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/2The_Perceptron" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -194,6 +199,9 @@
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/2The_Perceptron" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -259,6 +267,7 @@
       <workItem from="1568032957168" duration="1235000" />
       <workItem from="1568035086182" duration="6466000" />
       <workItem from="1568086924386" duration="4896000" />
+      <workItem from="1568148154155" duration="436000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 #% matplotlib inline
-
+"""here we have tried to understand how  machine approaches to solve a classification"""
 
 def draw(x1, x2):
     ln = plt.plot(x1, x2)
@@ -32,5 +32,3 @@ ax.scatter(top_region[:, 0], top_region[:, 1], color='r')
 ax.scatter(bottom_region[:, 0], bottom_region[:, 1], color='b')
 draw(x1, x2)
 plt.show()
-
-
