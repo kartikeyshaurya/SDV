@@ -1,15 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
-#% matplotlib inline
+# matplotlib inline
 """here we have tried to understand how  machine approaches to solve a classification"""
-
 def draw(x1, x2):
     ln = plt.plot(x1, x2)
 
-
 def sigmoid(score):
     return 1 / (1 + np.exp(-score))
-
 
 n_pts = 100
 np.random.seed(0)
@@ -22,7 +19,7 @@ w2 = -0.35
 b = 3.5
 line_paramters = np.matrix([w1, w2, b]).T
 x1 = np.array([bottom_region[:, 0].min(), top_region[:, 0].max()])
-x2 = -b / w2 + (x1 * (-w1 / w2))
+x2 = -b / w2 + (x1 * (-w1 / w2)) # equation of line ax+bx+c = 0
 
 linear_combination = all_points * line_paramters
 probabilities = sigmoid(linear_combination)
