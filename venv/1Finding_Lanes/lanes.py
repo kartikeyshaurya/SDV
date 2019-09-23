@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def canny(image):
+def canny(lane_image):
     grey = cv2.cvtColor(lane_image, cv2.COLOR_RGB2BGR)
     # blurring the image to reduce the noise
     blur = cv2.GaussianBlur(grey, (5, 5), 0)
@@ -27,16 +27,16 @@ def display_lines(img, lines):
         line_image = np.zeros_like(img)
         if lines is not None:
                 for line in lines:
-                        x1, y1, x2, y2 = lines.reshape(4)
+                        x1, y1, x2, y2 = line.reshape(4)
                         cv2.line(line_image,(x1,y1), (x2,y2), (255,0,0),10)
                         return line_image
 
 image = cv2.imread('test_image.jpg')
 lane_image = np.copy(image)
-kanny = canny(lane_image)
-interest = region_of_interest(kanny)
+canny = canny(lane_image)
+interest = region_of_interest(canny)
 mixed_image = cv2.addWeighted(lane_image,0.8,lane_image,1,1)
-lines = cv2.HoughLinesP(mixed_image, 2,np.pi/180 , 100, np.array([0]), minLineLength=40, maxLineGap=5)
+lines = cv2.HoughLinesP(mixed_, 2, np.pi/180, 100, np.array([]), minLineLength=40, maxLineGap=5)
 
 line_image =display_lines(lane_image,lines)
 cv2.imshow('result', line_image)

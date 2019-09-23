@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/3Keras/perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/2The_Perceptron/The_perceptron.md" beforeDir="false" afterPath="$PROJECT_DIR$/venv/2The_Perceptron/The_perceptron.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/2The_Perceptron/partial..py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/2The_Perceptron/partial..py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/rough.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/1Finding_Lanes/lanes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/1Finding_Lanes/lanes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/2The_Perceptron/perceptron_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/2The_Perceptron/perceptron_final.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.perceptron_final">
+  <component name="RunManager" selected="Python.lanes">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,35 +88,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="selfdriving car" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="lanes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/1Finding_Lanes" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -137,9 +111,6 @@
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/1Finding_Lanes" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -159,6 +130,9 @@
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/2The_Perceptron" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -200,6 +174,9 @@
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/2The_Perceptron" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -225,11 +202,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lanes" />
+        <item itemvalue="Python.lanes_final" />
         <item itemvalue="Python.perceptron_final" />
         <item itemvalue="Python.partial." />
         <item itemvalue="Python.perceptron" />
-        <item itemvalue="Python.lanes_final" />
-        <item itemvalue="Python.lanes" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +251,10 @@
       <workItem from="1569081588379" duration="518000" />
       <workItem from="1569082327117" duration="1769000" />
       <workItem from="1569110776219" duration="838000" />
-      <workItem from="1569141205920" duration="5848000" />
+      <workItem from="1569141205920" duration="6372000" />
+      <workItem from="1569150153461" duration="162000" />
+      <workItem from="1569150367572" duration="798000" />
+      <workItem from="1569238925018" duration="5591000" />
     </task>
     <servers />
   </component>
@@ -294,9 +274,22 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SDV$lanes_final.coverage" NAME="lanes_final Coverage Results" MODIFIED="1569253952682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/1Finding_Lanes" />
     <SUITE FILE_PATH="coverage/SDV$perceptron_final.coverage" NAME="perceptron_final Coverage Results" MODIFIED="1569147916778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/2The_Perceptron" />
     <SUITE FILE_PATH="coverage/selfdriving_car$1_0_numpy_crash_course.coverage" NAME="1.0 numpy crash course Coverage Results" MODIFIED="1565591965865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SDV$lanes.coverage" NAME="lanes Coverage Results" MODIFIED="1569254286052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/1Finding_Lanes" />
     <SUITE FILE_PATH="coverage/selfdriving_car$lanes.coverage" NAME="lanes Coverage Results" MODIFIED="1567363465015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/selfdriving_car$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1565591042372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
