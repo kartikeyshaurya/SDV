@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/4Deep_Neural_Network/.ipynb_checkpoints/Deep_neural_network-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/venv/4Deep_Neural_Network/.ipynb_checkpoints/Deep_neural_network-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/4Deep_Neural_Network/Deep_neural_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/venv/4Deep_Neural_Network/Deep_neural_network.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -264,6 +264,7 @@
       <workItem from="1569839636843" duration="3664000" />
       <workItem from="1569862164798" duration="788000" />
       <workItem from="1569914119049" duration="3008000" />
+      <workItem from="1570115073481" duration="600000" />
     </task>
     <servers />
   </component>
