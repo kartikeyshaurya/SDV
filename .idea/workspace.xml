@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/4Deep_Neural_Network/.ipynb_checkpoints/Deep_neural_network-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/venv/4Deep_Neural_Network/.ipynb_checkpoints/Deep_neural_network-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/4Deep_Neural_Network/Deep_neural_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/venv/4Deep_Neural_Network/Deep_neural_network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/10Behaviorial clonning/a.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +40,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/10Behaviorial clonning" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\karti\PycharmProjects\selfdriving car\venv" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karti\Desktop\REPOSITORY\SDV\venv\1Finding_Lanes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karti\Desktop\REPOSITORY\SDV\venv\10Behaviorial clonning" />
+      <recent name="C:\Users\karti\PycharmProjects\selfdriving car\venv" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lanes_final">
+  <component name="RunManager" selected="Python.drive">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,6 +131,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="drive" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selfdriving car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/10Behaviorial clonning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/10Behaviorial clonning/drive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drive2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selfdriving car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/10Behaviorial clonning" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/10Behaviorial clonning/drive2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="lanes_final" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selfdriving car" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,65 +197,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="w1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selfdriving car" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/7 Convolutional Neural Network" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/7 Convolutional Neural Network/w1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="w2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selfdriving car" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/7 Convolutional Neural Network" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/7 Convolutional Neural Network/w2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.w1" />
-      <item itemvalue="Python.w2" />
       <item itemvalue="Python.a2" />
       <item itemvalue="Python.a3" />
       <item itemvalue="Python.lanes_final" />
+      <item itemvalue="Python.drive" />
+      <item itemvalue="Python.drive2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.drive" />
+        <item itemvalue="Python.drive2" />
         <item itemvalue="Python.lanes_final" />
         <item itemvalue="Python.a3" />
         <item itemvalue="Python.a2" />
-        <item itemvalue="Python.w2" />
-        <item itemvalue="Python.w1" />
       </list>
     </recent_temporary>
   </component>
@@ -265,6 +266,11 @@
       <workItem from="1569862164798" duration="788000" />
       <workItem from="1569914119049" duration="3008000" />
       <workItem from="1570115073481" duration="600000" />
+      <workItem from="1570301492437" duration="180000" />
+      <workItem from="1570482133095" duration="631000" />
+      <workItem from="1570651397420" duration="1294000" />
+      <workItem from="1570689304150" duration="5367000" />
+      <workItem from="1570768897236" duration="4682000" />
     </task>
     <servers />
   </component>
@@ -296,17 +302,19 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SDV$lanes_final.coverage" NAME="lanes_final Coverage Results" MODIFIED="1569914429651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/1Finding_Lanes" />
-    <SUITE FILE_PATH="coverage/SDV$perceptron_final.coverage" NAME="perceptron_final Coverage Results" MODIFIED="1569147916778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/2The_Perceptron" />
+    <SUITE FILE_PATH="coverage/SDV$drive2.coverage" NAME="drive2 Coverage Results" MODIFIED="1570803375210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/10Behaviorial clonning" />
     <SUITE FILE_PATH="coverage/selfdriving_car$1_0_numpy_crash_course.coverage" NAME="1.0 numpy crash course Coverage Results" MODIFIED="1565591965865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SDV$lanes.coverage" NAME="lanes Coverage Results" MODIFIED="1569254286052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/1Finding_Lanes" />
     <SUITE FILE_PATH="coverage/SDV$a.coverage" NAME="a Coverage Results" MODIFIED="1569779056646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/5Multiclass_Classification" />
     <SUITE FILE_PATH="coverage/selfdriving_car$lanes.coverage" NAME="lanes Coverage Results" MODIFIED="1567363465015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/SDV$a2.coverage" NAME="a2 Coverage Results" MODIFIED="1569780426956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/8classifyingRoadSymbol" />
-    <SUITE FILE_PATH="coverage/SDV$w2.coverage" NAME="w2 Coverage Results" MODIFIED="1569779995815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/7 Convolutional Neural Network" />
-    <SUITE FILE_PATH="coverage/SDV$w1.coverage" NAME="w1 Coverage Results" MODIFIED="1569779254202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/7 Convolutional Neural Network" />
     <SUITE FILE_PATH="coverage/SDV$d.coverage" NAME="d Coverage Results" MODIFIED="1569778889354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/4Deep_Neural_Network" />
+    <SUITE FILE_PATH="coverage/SDV$drive.coverage" NAME="drive Coverage Results" MODIFIED="1570807718213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/10Behaviorial clonning" />
     <SUITE FILE_PATH="coverage/selfdriving_car$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1565591042372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/SDV$a3.coverage" NAME="a3 Coverage Results" MODIFIED="1569780947199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/8classifyingRoadSymbol" />
+    <SUITE FILE_PATH="coverage/SDV$lanes_final.coverage" NAME="lanes_final Coverage Results" MODIFIED="1570689720272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/1Finding_Lanes" />
+    <SUITE FILE_PATH="coverage/SDV$perceptron_final.coverage" NAME="perceptron_final Coverage Results" MODIFIED="1569147916778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/2The_Perceptron" />
+    <SUITE FILE_PATH="coverage/SDV$lanes.coverage" NAME="lanes Coverage Results" MODIFIED="1569254286052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/1Finding_Lanes" />
+    <SUITE FILE_PATH="coverage/SDV$w2.coverage" NAME="w2 Coverage Results" MODIFIED="1569779995815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/7 Convolutional Neural Network" />
+    <SUITE FILE_PATH="coverage/SDV$w1.coverage" NAME="w1 Coverage Results" MODIFIED="1569779254202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/7 Convolutional Neural Network" />
   </component>
 </project>
