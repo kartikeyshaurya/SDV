@@ -11,16 +11,16 @@ import cv2
 sio = socketio.Server()
 
 app = Flask(__name__) #'__main__'
-speed_limit = 10
-def img_preprocess(img):
+speed_limit = 50
+def img_preprocess(img):      #CHANGE THE VALUES HERE
     img = img[60:135,:,:]
     img = cv2.cvtColor(img, cv2.COLOR_RGB2YUV)
     img = cv2.GaussianBlur(img,  (3, 3), 0)
-    img = cv2.resize(img, (320, 75))
+    img = cv2.resize(img, (200, 66))
     img = img/255
     return img
 
-
+# teleportation
 @sio.on('telemetry')
 def telemetry(sid, data):
     speed = float(data['speed'])
@@ -51,3 +51,5 @@ if __name__ == '__main__':
     model = load_model('model.h5')
     app = socketio.Middleware(sio, app)
     eventlet.wsgi.server(eventlet.listen(('', 4567)), app)
+
+httpd.serve_forever()

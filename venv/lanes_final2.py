@@ -32,7 +32,6 @@ def display_lines(image, lines):
             x1, y1, x2, y2 = line.reshape(4)
             cv2.line(line_image, (x1, y1), (x2, y2), (255, 0, 0), 10)
             return line_image
-
 def average_slope_intercept(image, lines):
     left_fit = []
     right_fit = []
