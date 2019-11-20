@@ -9,3 +9,8 @@ it is based on the course provided on udemy self driving car
 
 ## TOOLS used 
 I.D.E  == Pycharm by jetbrains
+
+
+## FILE MANAGEMENT 
+1.0 The venv file contain all the code 
+
