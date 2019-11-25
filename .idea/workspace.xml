@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/10Behaviorial clonning/IMG/center_2019_10_03_22_43_31_108.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/10Behaviorial clonning/IMG/center_2019_10_03_22_43_31_179.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/10Behaviorial clonning/drive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/2The_Perceptron/perceptron_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/2The_Perceptron/perceptron_final.py" afterDir="false" />
-    </list>
+    <list default="true" id="a9c01cce-43e4-45f5-8a2f-b3b6101e5926" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +303,16 @@
       <workItem from="1572774999741" duration="198000" />
       <workItem from="1573799315374" duration="1230000" />
       <workItem from="1574365688345" duration="2584000" />
+      <workItem from="1574676765755" duration="262000" />
     </task>
+    <task id="LOCAL-00001" summary="modified the files to work properly">
+      <created>1574677025787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574677025787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +330,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified the files to work properly" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified the files to work properly" />
   </component>
   <component name="WindowStateProjectService">
     <state x="489" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1571345361535">
