@@ -52,4 +52,4 @@ if __name__ == '__main__':
     app = socketio.Middleware(sio, app)
     eventlet.wsgi.server(eventlet.listen(('', 4567)), app)
 
-httpd.serve_forever()
+##httpd.serve_forever()
