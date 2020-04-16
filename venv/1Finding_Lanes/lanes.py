@@ -36,7 +36,7 @@ lane_image = np.copy(image)
 canny = canny(lane_image)
 interest = region_of_interest(canny)
 mixed_image = cv2.addWeighted(lane_image,0.8,lane_image,1,1)
-lines = cv2.HoughLinesP(mixed_, 2, np.pi/180, 100, np.array([]), minLineLength=40, maxLineGap=5)
+lines = cv2.HoughLinesP(mixed_image, 2, np.pi/180, 100, np.array([]), minLineLength=40, maxLineGap=5)
 
 line_image =display_lines(lane_image,lines)
 cv2.imshow('result', line_image)
