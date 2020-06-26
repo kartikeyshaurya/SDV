@@ -6,7 +6,7 @@ A project done under the learning process
 <br>
 <br>
 
-**index** 
+## **index** 
 
 * Motivation
 * Tools Used  
@@ -15,16 +15,16 @@ A project done under the learning process
 * Contact Info 
 * Licence  
 
-**Motivation** 
+## **Motivation** 
 
 <br>
  Self-driving cars are transformational technology in the 20th century.<br>
  And while working in the deep learning i came to know that it is powered <br>
  by it , i took a course  and in the last i came to know about the RL network <br>
- and applied it and make a running model.
+ and applied it and made a running model.
 
 
-**TOOLS USED**
+## **TOOLS USED**
 
 ![GitHub Logo](/readme_Asset/python.jpg ) 
 ![GitHub Logo](/readme_Asset/flask.jpg )
@@ -33,7 +33,7 @@ A project done under the learning process
 ![GitHub Logo](/readme_Asset/opencv.jpg )
 ![GitHub Logo](/readme_Asset/matplot.jpg ) 
 
-**Reference/ Credit**
+## **Reference/ Credit**
 
 ![GitHub Logo](/readme_Asset/udacity.jpg )
 ![GitHub Logo](/readme_Asset/udemy.jpg )
